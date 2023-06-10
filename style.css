@@ -35,3 +35,13 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+.show{
+  display: block;
+  content: ">";
+}
+
+.hidemenu{
+  display: none;
+  content: "V";
+}
